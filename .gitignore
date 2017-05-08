@@ -47,3 +47,17 @@ bin/
 bin-debug/
 bin-release/
 .vs
+/packages
+/CustomerUI/App_Data
+/CustomerUI/bin
+/CustomerUI/obj
+/CustomerEntities/obj
+/CustomerEntities/bin
+/CustomerDAL/obj
+/CustomerDAL/bin
+/CustomerBLL/obj
+/CustomerBLL/bin
+/CustomerAPI/obj
+/CustomerAPI/bin
+/ManageCustomer.v12.suo
+/ManageCustomer.suo
